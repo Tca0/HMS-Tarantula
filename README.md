@@ -3,4 +3,4 @@
 A rapid prototype website for the HMS Tarantula:
 https://en.wikipedia.org/wiki/HMS_Tarantula
 
-Contributors: Taher, Peter, Dave, Thamiem.
+### Contributors: Taher, Peter, Dave, Thamiem.
