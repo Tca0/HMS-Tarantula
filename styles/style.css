@@ -1,0 +1,26 @@
+.hyperLink {
+    text-decoration: none;
+    color: blue;
+}
+.hyperLink:hover {
+    color:blueviolet;
+    font-weight: bolder;
+}
+.headerTitle {
+    border-bottom: 2px solid black;
+    padding-bottom: 20px;;
+}
+.info > h2, .history > h2 {
+    color: blue;
+}
+table {
+    border: 1px solid black;
+}
+.infoContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.history, .info {
+    width: 40%;
+}
