@@ -1,0 +1,8 @@
+.hyperLink {
+    text-decoration: none;
+    color: blue;
+}
+.hyperLink:hover {
+    color:blueviolet;
+    font-weight: bolder;
+}
